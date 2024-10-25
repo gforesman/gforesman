@@ -10,5 +10,5 @@ Hi! I am currently an undergraduate senior studying at Bryn Mawr College. I am a
 - Modeling: AMOS
 
 ### Connect
-- My Linkedin [link](www.linkedin.com/in/grace-foresman-34b36921a)
+- My Linkedin [link](https://www.linkedin.com/in/grace-foresman-34b36921a)
 
