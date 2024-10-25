@@ -1,16 +1,14 @@
-## Hi there 👋
+## Introducing Myself
 
-<!--
-**gforesman/gforesman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I am currently an undergraduate senior studying at Bryn Mawr College. I am a psychology major and a student researcher in the [DEER Lab](https://www.brynmawrdeerlab.org/). Through my coursework and student research, I have gained experience and enhanced my skills in data cleaning and analysis. I am also familiar with structural equation modeling and working on models with AMOS. After graduation, I itend to work in research and data analysis. 
 
-Here are some ideas to get you started:
+### Projects
+- See my recent project's folder link
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+- Languages: R, Python
+- Modeling: AMOS
+
+### Connect
+- My Linkedin [link](www.linkedin.com/in/grace-foresman-34b36921a)
+
