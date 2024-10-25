@@ -3,7 +3,7 @@
 Hi! I am currently an undergraduate senior studying at Bryn Mawr College. I am a psychology major and a student researcher in the [DEER Lab](https://www.brynmawrdeerlab.org/). Through my coursework and student research, I have gained experience and enhanced my skills in data cleaning and analysis. I am also familiar with structural equation modeling and working on models with AMOS. After graduation, I itend to work in research and data analysis. 
 
 ### Projects
-- See my recent project's folder link
+- See my [recent projects](https://github.com/gforesman/gf_projects)
 
 ### Tools
 - Languages: R, Python
